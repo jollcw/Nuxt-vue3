@@ -24,3 +24,11 @@ For detailed explanation on how things work, check out [Nuxt.js docs](https://nu
  -> https://composition-api.nuxtjs.org/getting-started/setup  
  
 ```npm install @nuxtjs/composition-api --save```
+
+
+## git
+
+* Reinitialized existing Git repository in C:/Users/Jordi/Documents/Vue-Js/nuxt/nuxt-03/.git/
+$ git init
+* Cuando remote origin already exists. ->  
+$ git remote set-url origin https://github.com/jollcw/Nuxt-vue3.git
